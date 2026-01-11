@@ -16,8 +16,8 @@
 
 ## 3. Integrate Generative AI with Azure Database for PostgreSQL
 
-- Evaluate reviews of given AI listings.
-- **Lab Resource:** [Analyze sentiment in PostgreSQL](https://microsoftlearning.github.io/mslearn-postgresql/Instructions/Labs/16-analyze-sentiment.html)
+- Objective : To perform semantic searches, you must first generate embedding vectors from a model, store them in a vector database, and then query the embeddings. You’ll create a database, populate it with sample data, and run semantic searches against those listings..
+- **Lab Resource:** [Generate vector embeddings with Azure OpenAI](https://microsoftlearning.github.io/mslearn-postgresql/Instructions/Labs/13-generate-vector-embeddings-azure-openai.html)
 
 ---
 
