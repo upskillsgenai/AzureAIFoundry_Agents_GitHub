@@ -148,8 +148,17 @@
 ## Develop a multi-agent solution with Azure AI Foundry Agent Service
 [Click here](https://learn.microsoft.com/en-in/training/paths/develop-ai-agents-on-azure/)
 
-## Introduction to Semantic Kernel
-[Click here](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+## Develop an AI agent with Microsoft Agent Framework
+[Click here](https://learn.microsoft.com/en-in/training/modules/develop-ai-agent-with-semantic-kernel/)
+
+## Orchestrate a multi-agent solution using the Microsoft Agent Framework
+[Click here](https://learn.microsoft.com/en-in/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)
+
+## Semantic Kernel to Agent Framework Migration Guide
+[Click here](https://learn.microsoft.com/en-us/agent-framework/migration-guide/from-semantic-kernel/?pivots=programming-language-python)
+
+## AutoGen to Microsoft Agent Framework Migration Guide
+[Click here](https://learn.microsoft.com/en-us/agent-framework/migration-guide/from-autogen/)
 
 ## Azure OpenAI
 [Click here](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/resources/openai)
