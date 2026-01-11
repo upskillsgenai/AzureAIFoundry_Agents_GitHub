@@ -114,7 +114,7 @@
 [Click here](https://developer.microsoft.com/blog/reimagining-every-phase-of-the-developer-lifecycle#:~:text=At%20Microsoft%20Build%20last%20week,NET%20and%20Java)
 
 ## Retrieval Augmented Generation (RAG) in Azure AI Search
-[Click here](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview?tabs=docs)
+[Click here](https://learn.microsoft.com/en-in/training/modules/build-copilot-ai-studio/)
 
 ## Prompt engineering techniques
 [Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering)
@@ -146,7 +146,7 @@
 [Click here](https://learn.microsoft.com/en-in/training/modules/develop-ai-agent-azure/)
 
 ## Develop a multi-agent solution with Azure AI Foundry Agent Service
-[Click here](https://learn.microsoft.com/en-in/training/paths/develop-ai-agents-on-azure/)
+[Click here](https://learn.microsoft.com/en-in/training/modules/develop-multi-agent-azure-ai-foundry/)
 
 ## Develop an AI agent with Microsoft Agent Framework
 [Click here](https://learn.microsoft.com/en-in/training/modules/develop-ai-agent-with-semantic-kernel/)
