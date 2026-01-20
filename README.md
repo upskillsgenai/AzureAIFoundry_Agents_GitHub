@@ -74,7 +74,11 @@
 - When compute is ready (turns green), proceed to next steps.
 
 ---
+## 10. Sementic-RAG
 
+- **Lab Resource:** [Sementic-RAG](https://github.com/upskillsgenai/Sementic-RAG.git)
+
+---
 **Note:** Follow each lab’s instructions carefully for resource setup and successful completion.
 ---
 
